@@ -1,6 +1,6 @@
-#TEAM 58 - Buliding a WebApp and an App in order to optimise the pachaged drinking water supply
+# Buliding a WebApp and an App in order to optimise the packaged drinking water supply
 
-1. In this industry we have mainly 4 classes of users that is manager, supervisor, delivery team, customers. A webApp is targetted for all the users except the delivery team. The application is targetted for the delivery team. First of all a company is registered with our app then the company can create some manger accounts.
+1. In this industry we have mainly 4 classes of users that is manager, supervisor, delivery team, customers. A webApp is targetted for all the users except the delivery team. The application is targeted for the delivery team. First of all a company is registered with our app then the company can create some manger accounts.
 1. The managers in turn will create the accounts of the supervisors and further the supervisors of a particular area will create the accounts of the customers and the delivery team with him.
 1. With the WebApp the supervisor will be able to take orders and plan daily deliveries of the packaged drinking water cans. He will be able to track the delivery vehicles and their current stock. He can also view the inventory of all the stocks with him.
 1. Now for each vehicle first a driver will scan the QR code designated to that particular vehicle and this combination of vehicle and the driver will be alloted a trip number particular to that day.
